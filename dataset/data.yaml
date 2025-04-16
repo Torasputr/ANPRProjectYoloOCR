@@ -1,0 +1,13 @@
+train: C:\Jobs\ANPR\TrainingPt3\dataset\train
+val: C:\Jobs\ANPR\TrainingPt3\dataset\valid
+test: C:\Jobs\ANPR\TrainingPt3\dataset\test
+
+nc: 2
+names: ['license-plat', 'p']
+
+roboflow:
+  workspace: tugas-akhir-if0wo
+  project: ta-a1bds
+  version: 1
+  license: Public Domain
+  url: https://universe.roboflow.com/tugas-akhir-if0wo/ta-a1bds/dataset/1
